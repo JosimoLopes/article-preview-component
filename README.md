@@ -45,4 +45,4 @@ Users should be able to:
 ## Author
 
 - Website - [Josimo Lopes](https://josimolopes.me)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/josimolopes)
+- Frontend Mentor - [@josimolopes](https://www.frontendmentor.io/profile/josimolopes)
