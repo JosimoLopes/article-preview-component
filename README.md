@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here](https://article-preview-component--pearl.vercel.app/)
 
 ### Built with
 
@@ -45,4 +45,4 @@ Users should be able to:
 ## Author
 
 - Website - [Josimo Lopes](https://josimolopes.me)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/josimolopes)
+- Frontend Mentor - [@josimolopes](https://www.frontendmentor.io/profile/josimolopes)
